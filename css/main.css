@@ -1,0 +1,11 @@
+body {
+    background-color: #eeeeee;
+}
+.main_wrapper {
+    background-color: #fff;
+    width: 500px;
+    border-radius: 5px;
+    border: 1px #bbb solid;
+    margin: auto;
+    padding: 10px;
+}
